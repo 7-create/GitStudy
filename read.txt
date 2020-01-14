@@ -3,4 +3,8 @@ git is free software
 Git has a mutable index called stage.
 Git tracks change of file.
 Creating a new branch is very quick and simple.
+<<<<<<< HEAD
 no ff forward bug
+=======
+no ff forward ok 
+>>>>>>> issue-001
