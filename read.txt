@@ -1,5 +1,5 @@
-git is a control system
-git is a free software
+git is a control system.
+git is free software.
 Git has a mutable index called stage.
 Git tracks change of file.
 Creating a new branch is very quick and simple.
